@@ -1,0 +1,13 @@
+1) conda create -n hb python=3.8
+
+2) conda activate hb
+
+3) pip install selenium bs4 pyautogui jupyter notebook ipykernel
+
+4) python -m ipykernel install --user --name hb
+
+5) pip install webdriver-manager keyboard //this is for Number Typing
+
+6) pip install opencv-python mouse numpy pillow screeninfo mss//Reaction Time
+
+7) pynput
